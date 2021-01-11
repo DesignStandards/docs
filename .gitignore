@@ -1,0 +1,8 @@
+# Ignore OS generated files #
+**/.DS_Store
+*.tox
+
+build/
+
+# Ignore jupyter generated files #
+**/.ipynb_checkpoints
