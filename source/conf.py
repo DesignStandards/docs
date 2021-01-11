@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Next Gen Technical Best Practices'
+project = 'Next Gen Technical Best Practices '
 copyright = '2021, Next Gen Architects'
 author = 'Rahul Goel'
 release = '1.0.0'
