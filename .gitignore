@@ -6,3 +6,4 @@ build/
 
 # Ignore jupyter generated files #
 **/.ipynb_checkpoints
+venv
